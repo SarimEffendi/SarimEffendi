@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SarimEffendi
-- 👀 I’m interested in Java
+- 👋 Hi, I’m SarimEffendi
+- 👀 I’m interested in Mobile and Web Application development and Artificial Intelligence
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects related to AI and machine learning
 - 📫 How to reach me through my email sarimeffendi2020@gmail.com
 
 <!---
